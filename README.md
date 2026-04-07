@@ -6,7 +6,7 @@ This project simulates a real-world enterprise network environment connecting a 
 ##  Network Topology
 
 
-![Network Topology Diagram]
+## Network Topology Diagram:
 <img width="1425" height="666" alt="Screenshot 2026-04-07 104250" src="https://github.com/user-attachments/assets/e4ee344e-4b88-42df-86b3-94c38e302eb3" />
 
 ## 🛠️ Technologies & Concepts Demonstrated
